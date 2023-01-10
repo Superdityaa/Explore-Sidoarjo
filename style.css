@@ -44,3 +44,11 @@
     line-height: 35px;
     text-align: center;
 }
+
+.tombol{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        margin-top: 100px;
+}
