@@ -66,3 +66,19 @@
     color:  #fff;
     background-color: #946e08;
 }
+
+.text1{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 97px;
+    letter-spacing: 0.05em;
+    font-family: 'Inter', sans-serif;
+}
+
+.text2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    margin-top: 50px;
+    font-family: 'Inter', sans-serif;
+}
