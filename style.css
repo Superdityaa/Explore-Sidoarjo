@@ -45,10 +45,24 @@
     text-align: center;
 }
 
-.tombol{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100%;
-        margin-top: 100px;
+.btn{
+    display: flex;
+    width:20%;
+    justify-content: center;
+    border-radius:10px;
+    height: 50px;
+    margin-left: 40%;
+    opacity: 70%;
+    margin-top: 100px;
+    padding: 10px;
+    font-weight: 200;
+    font-size: 18px;
+    color:  #fff;
+    background-color: rgba(0,0,0,0.05);
+    border-color:#2f2a1c;
+}
+
+.btn:hover{
+    color:  #fff;
+    background-color: #946e08;
 }
