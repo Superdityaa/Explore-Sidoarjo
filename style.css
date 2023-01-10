@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+
+li{
+    float: left;
+    margin: 0;
+    padding: 50px;
+}
+
+li a:hover{
+    cursor: pointer;
+    color: black ;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    align-items: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color:#ffffff;
+    font-weight:700;
+    font-family: arial;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-image: url("Untuk-Foto/Foto-1.png");
+}
