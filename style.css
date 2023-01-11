@@ -114,15 +114,31 @@
     color: #ffffff;
 }
 
+.galery {
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 116px;
+    letter-spacing: 0.05em;
+    color: rgba(38, 50, 56, 0.76);
+}
+
+.text3{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    margin-top: 45px;
+    font-family: 'Inter', sans-serif;
+}
+
 .left-content{
-    background-image: url(foto/img3.jpg);
+    background-image: url(Untuk-foto/Sawah.jpeg);
     width: 430px;
     height: 590px;
     padding-top:500px;
 }
 
 .midle-content{
-    background-image: url(foto/img4.jpg);
+    background-image: url(Untuk-foto/Pantai.jpeg);
     width: 511px;
     height: 370px;
     padding: 5px;
@@ -130,7 +146,7 @@
 }
 
 .midle-content2{
-    background-image: url(foto/img5.jpg);
+    background-image: url(Untuk-foto/Udang.jpeg);
     background-size: cover;
     width: 511px;
     height: 210px;
@@ -141,11 +157,10 @@
 
 
 .right-content{
-    background-image :url(foto/img6.jpg);
+    background-image :url(Untuk-foto/Danau.jpeg);
     width: 430px;
     height: 590px;
     padding: -5px 0px;
-    margin-left:80px;
     padding-top:500px;
 }
 
